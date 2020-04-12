@@ -866,6 +866,7 @@ Navbar Area Style
   z-index: 1;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
+  cursor: pointer;
 }
 
 .nivo-nav-one .others-option .donate:hover {
