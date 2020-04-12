@@ -184,21 +184,11 @@
 										</li>
 									</ul>
 									<div class="others-option">
-										<div class="others-options">
-											<div class="option-item">
-												<i class="search-btn fa fa-search"></i>
-												<i class="close-btn fa fa-close"></i>
-												<div class="search-overlay search-popup">
-													<div class='search-box'>
-														<form class="search-form">
-															<input class="search-input" name="search" placeholder="Search" type="text">
-															<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
-														</form>
-													</div>
-												</div>
-											</div>	
-										</div>	
-										<a href="donate.html" class="donate">Donate Now</a>
+										<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+											<input type="hidden" name="cmd" value="_s-xclick" />
+											<input type="hidden" name="hosted_button_id" value="JEWJSMGVLQEC8" />
+											<button type="submit" class="donate">Donate Now</button>
+										</form>
 									</div>
 								</div>
 							</div>
