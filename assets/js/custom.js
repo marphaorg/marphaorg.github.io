@@ -232,6 +232,8 @@
 
 		// Mix JS
 		$('#Container').mixItUp();
+
+		
 	});
 })(jQuery);
 
