@@ -1,0 +1,54 @@
+- name: Home
+  link: /
+
+- name: Issue
+  link: /rural-communities-and-technology.html
+  sub: 
+  - name: Overview
+    link: /rural-communities-and-technology.html
+  - name: Internet Deserts
+    link: /rural-areas-are-the-internet-deserts.html
+  - name: Technology Abuse
+    link: /negative-effects-of-technology.html
+  - name: Rural Surveys
+    link: /surveys-and-data-collection-is-difficult-in-rural-areas.html
+  - name: Domestic Violence
+    link: /domestic-violence-statistics.html
+  - name: Fact Sheet
+    link: /fact-sheet-statistics.html
+
+
+- name: Work
+  link: /our-work-to-solve-social-issues-in-rural-communities.html
+  sub:
+  - name: Overview
+    link: /our-work-to-solve-social-issues-in-rural-communities.html
+  - name: Wireless Internet
+    link: /wireless-internet-in-remote-nepal.html
+  - name: Offline Learning App
+    link: /kolibri-in-nepali-language.html
+  - name: STEM in Primary Schools
+    link: /computer-science-in-primary-schools.html
+  - name: Safe Use of Internet
+    link: /safe-use-of-internet.html
+  - name: Project Open Data Governance
+    link: /project-open-data-governance.html
+
+- name: About Us
+  link: /about-our-ideas-and-technology-to-solve-social-issues-of-rural-communities.html
+  sub:
+  - name: Overview
+    link: /about-our-ideas-and-technology-to-solve-social-issues-of-rural-communities.html
+  - name: Partnership
+    link: /project.html
+  - name: FAQ
+    link: /faq.html
+
+- name: Get Involve
+  link: /join-us.html
+
+- name: Blog
+  link: /blog-grid.html
+
+- name: Contact
+  link: /contact.html
