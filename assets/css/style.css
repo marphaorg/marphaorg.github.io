@@ -1902,25 +1902,12 @@ Footer Top Area CSS
 }
 
 .footer-top-area .section-title {
-  margin-bottom: 100px;
   position: relative;
 }
 
 .footer-top-area .section-title h2 {
   color: #ffffff;
   margin-bottom: 30px;
-}
-
-.footer-top-area .section-title::before {
-  position: absolute;
-  content: "";
-  left: 0;
-  bottom: -58px;
-  width: 200px;
-  height: 2px;
-  border-bottom: 2px dashed #79c045;
-  margin: auto;
-  right: 0;
 }
 
 .footer-top-area .single-widget {
