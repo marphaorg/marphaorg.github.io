@@ -996,6 +996,18 @@ Banner Area Style
   z-index: -1;
 }
 
+.banner-area .default-btn.join {
+  padding: 10px 41px;
+}
+
+.banner-area .default-btn.join::before {
+  background-color: #08579e;
+}
+
+.banner-area .default-btn.join::after {
+  background-color: #08579e;
+}
+
 @-webkit-keyframes rotation {
   from {
     -webkit-transform: rotate(0deg);
@@ -1520,11 +1532,11 @@ Help Area Style
 }
 
 .help-area .default-btn.join::before {
-  background-color: #fdbb84;
+  background-color: #08579e;
 }
 
 .help-area .default-btn.join::after {
-  background-color: #fdbb84;
+  background-color: #08579e;
 }
 
 /*
