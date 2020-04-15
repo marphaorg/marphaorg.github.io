@@ -60,9 +60,57 @@ title: Contact
 <!-- Start Contact Area -->
 <section class="contact-area pb-100">
 	<div class="container">
+		<div class="section-title">
+			<h2>Drop us message for any query</h2>
+			<p>If you have an idea, we would love to hear about it.</p>
+		</div>
+
 		<div class="row align-items-center">
-			<div class="col-lg-12">
-				<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGK3u2p6x0NNG9BzhfHyjsMn-95baVddyqwAQLG98KanukWg/viewform?embedded=true" width="540" height="964" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+			<div class="col-lg-6">
+				<div class="contact-form">
+					<form id="contactForm" action="https://docs.google.com/forms/u/4/d/e/1FAIpQLSeGK3u2p6x0NNG9BzhfHyjsMn-95baVddyqwAQLG98KanukWg/formResponse">
+						<div class="row">
+							<div class="col-lg-12">
+								<div class="form-group">
+									<input type="text" name="entry.2005620554" id="name" class="form-control" required data-error="Please enter your name" placeholder="Name" autocomplete="off">
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="form-group">
+									<input type="email" name="entry.1045781291" id="email" class="form-control" data-error="Please enter your email" placeholder="Email" autocomplete="off">
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="form-group">
+									<input type="text" name="entry.1166974658" id="phone_number" data-error="Please enter your number" class="form-control" placeholder="Phone" autocomplete="off">
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="form-group">
+									<textarea name="entry.839337160" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Your Message" autocomplete="off"></textarea>
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="form-group form-check">
+									<input type="checkbox" name="entry.1869901529" value="Yes" id="stay_in_touch" class="form-check-input">
+									<label class="form-check-label" for="stay_in_touch">Yes, I would like to receive updates from Marpha.</label>
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="form-group form-check">
+									<input type="checkbox" name="entry.523809593" value="Yes" id="privacy_policy" class="form-check-input" style="position: absolute;">
+									<label class="form-check-label" for="privacy_policy">By using this form you agree with the storage and handling of your data by this website in accordance with our <a href="/privacy-policy.html" target="_blank"><u>Privacy Policy</u></a><i class="fa fa-external-link fa-fw" aria-hidden="true"></i>.</label>
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<button type="submit" class="default-btn">Send Message</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div id="map"></div>
 			</div>
 		</div>
 	</div>
