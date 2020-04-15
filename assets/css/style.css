@@ -378,7 +378,7 @@ Pagenavigation Area Style
 ================================*/
 .pagenavigation-area {
   text-align: center;
-  margin: 20px auto 0;
+  margin: 20px auto 20px;
   display: table;
 }
 
@@ -1783,7 +1783,7 @@ News Area Style
 }
 
 .single-news {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .single-news .news-img {
@@ -1809,21 +1809,17 @@ News Area Style
 .single-news .news-text {
   padding: 25px;
   background-color: #ffffff;
-  -webkit-box-shadow: 0 0 11px 3px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 11px 3px rgba(0, 0, 0, 0.05);
-  border-radius: 0 0 4px 4px;
 }
 
 .single-news .news-text ul {
   line-height: 1;
   margin-bottom: 14px;
-  border-bottom: 1px solid #dedddd;
-  padding-bottom: 20px;
 }
 
 .single-news .news-text ul li {
   display: inline-block;
   padding-right: 20px;
+  padding-bottom: 10px;
   color: #747677;
 }
 
@@ -4553,7 +4549,6 @@ Page Title Area Style
 ================================*/
 .page-title-area {
   position: relative;
-  z-index: 1;
   padding-top: 260px;
   padding-bottom: 140px;
   background-color: #79c045;
