@@ -2,53 +2,53 @@
   link: /
 
 - name: Issue
-  link: /rural-communities-and-technology.html
+  link: /information-technology-and-rural-community/
   sub: 
   - name: Overview
-    link: /rural-communities-and-technology.html
+    link: /information-technology-and-rural-community/
   - name: Internet Deserts
-    link: /rural-areas-are-the-internet-deserts.html
+    link: /rural-areas-are-the-internet-deserts/
   - name: Technology Abuse
-    link: /negative-effects-of-technology.html
+    link: /side-effects-of-technology/
   - name: Rural Surveys
-    link: /surveys-and-data-collection-is-difficult-in-rural-areas.html
+    link: /doing-survey-and-collecting-data-is-almost-impossible-in-rural-areas/
   - name: Domestic Violence
-    link: /domestic-violence-statistics.html
+    link: /domestic-voilence-statics/
   - name: Fact Sheet
-    link: /fact-sheet-statistics.html
+    link: /facet-sheet-of-rural-community/
 
 
 - name: Work
-  link: /our-work-to-solve-social-issues-in-rural-communities.html
+  link: /our-work-to-solve-social-problems-in-rural-communities/
   sub:
   - name: Overview
-    link: /our-work-to-solve-social-issues-in-rural-communities.html
+    link: /our-work-to-solve-social-problems-in-rural-communities/
   - name: Wireless Internet
-    link: /wireless-internet-in-remote-nepal.html
+    link: /wireless-internet-connection-in-rural-areas-of-nepal/
   - name: Offline Learning App
-    link: /kolibri-in-nepali-language.html
+    link: /offline-learning-software-in-nepali-language/'
   - name: STEM in Primary Schools
-    link: /computer-science-in-primary-schools.html
+    link: /computer-science-classes-in-government-primary-schools/
   - name: Safe Use of Internet
-    link: /safe-use-of-internet.html
-  - name: Project Open Data Governance
-    link: /project-open-data-governance.html
+    link: /safe-use-of-internet-and-internet-safety/
+  - name: Project Open Data
+    link: /open-data-project/
 
 - name: About Us
-  link: /about-our-ideas-and-technology-to-solve-social-issues-of-rural-communities.html
+  link: /about-our-ideas-and-technology-solution-to-solve-social-problems-of-rural-communities/
   sub:
   - name: Overview
-    link: /about-our-ideas-and-technology-to-solve-social-issues-of-rural-communities.html
+    link: /about-our-ideas-and-technology-solution-to-solve-social-problems-of-rural-communities/
   - name: Partnership
     link: /project.html
   - name: FAQ
-    link: /faq.html
+    link: /faq/
 
 - name: Get Involve
-  link: /join-us.html
+  link: /join-us/
 
 - name: Blog
-  link: /marpha-blog.html
+  link: /marpha-blog/
 
 - name: Contact
-  link: /contact.html
+  link: /contact/
