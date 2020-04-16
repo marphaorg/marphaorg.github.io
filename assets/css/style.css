@@ -1485,7 +1485,7 @@ Active Campaing Area Style
 Help Area Style
 ================================*/
 .help-area {
-  background-image: url(../img/help-bg.jpg);
+  background-image: url(/assets/img/help-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1892,7 +1892,7 @@ Footer Top Area CSS
   height: 100%;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(../img/shape/8.png);
+  background-image: url(/assets/img/shape/8.png);
   opacity: 0.1;
   z-index: -1;
 }
@@ -2972,23 +2972,23 @@ Sidebar Widget Area Style
 }
 
 .widget-area .widget_zovio_posts_thumb .item .thumb .fullimage.bg1 {
-  background-image: url(../img/blog-details/2.jpg);
+  background-image: url(/assets/img/blog-details/2.jpg);
 }
 
 .widget-area .widget_zovio_posts_thumb .item .thumb .fullimage.bg2 {
-  background-image: url(../img/blog-details/3.jpg);
+  background-image: url(/assets/img/blog-details/3.jpg);
 }
 
 .widget-area .widget_zovio_posts_thumb .item .thumb .fullimage.bg3 {
-  background-image: url(../img/blog-details/4.jpg);
+  background-image: url(/assets/img/blog-details/4.jpg);
 }
 
 .widget-area .widget_zovio_posts_thumb .item .thumb .fullimage.bg4 {
-  background-image: url(../img/blog-details/5.jpg);
+  background-image: url(/assets/img/blog-details/5.jpg);
 }
 
 .widget-area .widget_zovio_posts_thumb .item .thumb .fullimage.bg5 {
-  background-image: url(../img/blog-details/6.jpg);
+  background-image: url(/assets/img/blog-details/6.jpg);
 }
 
 .widget-area .widget_zovio_posts_thumb .item .info {
@@ -3624,7 +3624,7 @@ FAQ Area Style
 .faq-image {
   width: 100%;
   height: 100%;
-  background-image: url(../img/faq/faq-img.jpg);
+  background-image: url(/assets/img/faq/faq-img.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3902,15 +3902,15 @@ Start Slider Text Three Area Style
 }
 
 .slider-item-bg-1 {
-  background-image: url(../img/slider/2.jpg);
+  background-image: url(/assets/img/slider/2.jpg);
 }
 
 .slider-item-bg-2 {
-  background-image: url(../img/slider/1.jpg);
+  background-image: url(/assets/img/slider/1.jpg);
 }
 
 .slider-item-bg-3 {
-  background-image: url(../img/slider/3.jpg);
+  background-image: url(/assets/img/slider/3.jpg);
 }
 
 /*
@@ -4062,7 +4062,7 @@ Active Campaing Area Style
 Reasons Area Style
 ================================*/
 .help-area.two {
-  background-image: url(../img/counter-bg.jpg);
+  background-image: url(/assets/img/counter-bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4091,7 +4091,7 @@ Reasons Area Style
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../img/shape/8.png);
+  background-image: url(/assets/img/shape/8.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4308,27 +4308,27 @@ Our Event Area Two Style
 }
 
 .our-event-area .event-img-5 {
-  background-image: url(../img/event/5.jpg);
+  background-image: url(/assets/img/event/5.jpg);
 }
 
 .our-event-area .event-img-6 {
-  background-image: url(../img/event/6.jpg);
+  background-image: url(/assets/img/event/6.jpg);
 }
 
 .our-event-area .event-img-7 {
-  background-image: url(../img/event/7.jpg);
+  background-image: url(/assets/img/event/7.jpg);
 }
 
 .our-event-area .event-img-8 {
-  background-image: url(../img/event/8.jpg);
+  background-image: url(/assets/img/event/8.jpg);
 }
 
 .our-event-area .event-img-9 {
-  background-image: url(../img/event/5.jpg);
+  background-image: url(/assets/img/event/5.jpg);
 }
 
 .our-event-area .event-img-10 {
-  background-image: url(../img/event/6.jpg);
+  background-image: url(/assets/img/event/6.jpg);
 }
 
 .article-footer.two {
@@ -4527,7 +4527,7 @@ Causes Details Area Two Style
 }
 
 .donate-area .donate-img {
-  background-image: url(../img/donate.jpg);
+  background-image: url(/assets/img/donate.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4610,58 +4610,58 @@ Page Title Area Style
 }
 
 .page-title-area.item-bg-1 {
-  background-image: url(../img/faq/banner.jpg);
+  background-image: url(/assets/img/faq/banner.jpg);
 }
 
 .page-title-area.item-bg-2 {
-  background-image: url(../img/page-banner/1.jpg);
+  background-image: url(/assets/img/page-banner/1.jpg);
 }
 
 .page-title-area.item-bg-3 {
-  background-image: url(../img/page-banner/2.jpg);
+  background-image: url(/assets/img/page-banner/2.jpg);
 }
 
 .page-title-area.item-bg-4 {
-  background-image: url(../img/page-banner/3.jpg);
+  background-image: url(/assets/img/page-banner/3.jpg);
 }
 
 .page-title-area.item-bg-5 {
-  background-image: url(../img/page-banner/4.jpg);
+  background-image: url(/assets/img/page-banner/4.jpg);
 }
 
 .page-title-area.item-bg-6 {
-  background-image: url(../img/page-banner/5.jpg);
+  background-image: url(/assets/img/page-banner/5.jpg);
 }
 
 .page-title-area.item-bg-7 {
-  background-image: url(../img/page-banner/6.jpg);
+  background-image: url(/assets/img/page-banner/6.jpg);
 }
 
 .page-title-area.item-bg-8 {
-  background-image: url(../img/page-banner/1.jpg);
+  background-image: url(/assets/img/page-banner/1.jpg);
 }
 
 .page-title-area.item-bg-9 {
-  background-image: url(../img/page-banner/2.jpg);
+  background-image: url(/assets/img/page-banner/2.jpg);
 }
 
 .page-title-area.item-bg-10 {
-  background-image: url(../img/page-banner/3.jpg);
+  background-image: url(/assets/img/page-banner/3.jpg);
 }
 
 .page-title-area.item-bg-11 {
-  background-image: url(../img/page-banner/4.jpg);
+  background-image: url(/assets/img/page-banner/4.jpg);
 }
 
 .page-title-area.item-bg-12 {
-  background-image: url(../img/page-banner/5.jpg);
+  background-image: url(/assets/img/page-banner/5.jpg);
 }
 
 .page-title-area.item-bg-13 {
-  background-image: url(../img/page-banner/6.jpg);
+  background-image: url(/assets/img/page-banner/6.jpg);
 }
 
 .page-title-area.item-bg-14 {
-  background-image: url(../img/page-banner/1.jpg);
+  background-image: url(/assets/img/page-banner/1.jpg);
 }
 /*# sourceMappingURL=style.css.map */
