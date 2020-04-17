@@ -29,7 +29,7 @@ permalink: '/marpha-blog/'
 			<h2 class="text-secondary">Featured</h2>
 		</div>
 		<div class="row">
-			{% for post in site.posts %}
+			{% for post in site.posts limit:3 %}
 				<div class="col-lg-4 col-md-6">
 					<div class="single-news">
 						<div class="news-img">
