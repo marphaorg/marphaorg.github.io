@@ -1,12 +1,15 @@
 suvash_shah:
   name: Suvash Shah
-  bio: /author/suvash_shah.html
-  img: /
+  bio: /author/suvash-shah/
+  github: sthakuri
+  img: /assets/img/authors/suvash-shah.jpg
 peter_minnium:
   name: Peter Minnium
-  bio: /author/peter_minnium.html
-  img: /
+  bio: /author/peter-minnium/
+  github: pminnium
+  img: /assets/img/authors/suvash-shah.jpg
 ram_thapa:
   name: Ram Thapa
-  bio: /author/ram_thapa.html
-  img: /
+  bio: /author/ram-thapa/
+  github: rthapa
+  img: /assets/img/authors/suvash-shah.jpg

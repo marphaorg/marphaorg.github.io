@@ -1,0 +1,66 @@
+---
+layout: master
+title: Peter Minnium
+permalink: '/author/peter-minnium/'
+---
+
+
+<!-- Start Auther Bio Area -->
+<div class="author-bio-area pt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <img class="img-lg rounded-circle border shadow" src="{{ site.data.authors.peter_minnium.img }}">
+                <label class="author-name">Peter Minnium</label>
+                <ul class="social">
+                    <li><a href="http://www.github.com/{{site.data.authors.peter_minnium.github}}" target="_blank"><i class="fa fa-github fa-fw"></i>{{site.data.authors.peter_minnium.github}}</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Author Bio Area -->
+
+<!-- Start All Post Area -->
+<section class="author-posts">
+	<div class="container">
+		<div class="section-title">
+			<label>Post by <a href="{{ site.data.authors.peter_minnium.bio }}" class="underline-dash">Peter Minnium</a></h2>
+		</div>
+		<div class="row">
+			{% assign author-posts = site.posts | where: "author","peter_minnium" %}
+			{% for post in author-posts %}
+				<div class="col-lg-12 col-md-12">
+					<div class="single-news">
+						<div class="news-text">
+							<ul>
+								<li>
+									<i class="fa fa-calendar fa-fw"></i>
+									<span>{{ post.date | date: '%B %d, %Y'}}</span>
+								</li>
+								<li>
+									<i class="flaticon-man-user"></i>
+									By
+									<a href="{{ site.data.authors[post.author].bio }}">{{ site.data.authors[post.author].name }}</a>
+								</li>
+								<li>
+									<i class="fa fa-tags"></i>
+									<a href="#">Open Data</a>,
+									<a href="#">Karnali</a>
+								</li>
+							</ul>
+							<h3>
+							<a href="{{ post.url }}">{{ post.title }}</a>
+							</h3>
+							<p>{{ post.excerpt }}</p>
+							<a class="read-more" href="{{ post.url }}">
+								Read More
+							</a>
+						</div>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End Latest News Area -->
